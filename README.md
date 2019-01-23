@@ -3,8 +3,8 @@ My training
 
 ## A header
 ### Another header
-- 1
- - a
- - b
- - c
-- 2
+* 1
+ * a
+ * b
+ * c
+* 2

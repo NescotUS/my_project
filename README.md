@@ -4,7 +4,7 @@ My training
 ## A header
 ### Another header
 - 1
- -a
- -b
- -c
+ - a
+ - b
+ - c
 - 2
